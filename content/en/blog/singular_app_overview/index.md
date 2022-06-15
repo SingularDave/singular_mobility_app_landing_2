@@ -15,14 +15,6 @@ contributors: ["Dave Pratt, DPT, OCS, CSCS"]
 <head>
     <meta charset="UTF-8">
     <title>Singular Movement Mobility Application: Overview</title>
-    <style>
-        body {
-            font-family: 'Chivo', sans-serif;
-            font-size: 22px;
-            line-height: 1.4286;
-            background-color: #ffffff;
-        }
-    </style>
 </head>
 <body>
 <p>The human body often develops muscular tightness patterns, leading to suboptimal posture and joint active range of
